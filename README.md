@@ -81,11 +81,11 @@ Noise pollution is a major environmental concern in urban areas. This project me
 
 <img width="690" height="624" alt="Circuit diagram IOE" src="https://github.com/user-attachments/assets/0d71fa8a-6b64-4a73-9f0b-9a5e9eeb2e07" />
 
-<img width="448" height="562" alt="PPT image IOE 2" src="https://github.com/user-attachments/assets/0acf70f8-ef93-45e3-a872-ab9ffbe0146d" />
 
-  
 
----
+
+
+
 
 ## ⭐ License
 
